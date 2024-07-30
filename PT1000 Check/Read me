@@ -1,0 +1,2 @@
+# 20240703002 file used for checking the testing framework for PT1000, 
+# how it wire, the testing data structure, the obtained cur-vol data to convert to resistance, then follow the PT1000 temperature-resistance look up table to find the temperature value
