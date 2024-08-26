@@ -1,0 +1,2 @@
+08/26/2024: I found this cell continous expansion when testing terminated. It growth significantly after the test was done. One thought could be, the initial testing introduce the Li plating and internal short path to the cell and thus introduce the self-discharge within the 
+cell. The self-discharge would then cause the cell material to degradate (electrolyte and electrodes) then produce gas and cause cell to expand.
